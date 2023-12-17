@@ -1,4 +1,4 @@
-//use zen_class;
+//use Zen_class_programme
 //users collection
 db.users.insertMany([
     {
